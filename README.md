@@ -6,3 +6,4 @@ trabalho executado utilizando canva: uso de figuras e fotos
 https://www.canva.com/design/DAHBPnoKum4/7QdoF78-WPsnIqhQm9iO8Q/edit?utm_content=DAHBPnoKum4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 aula dados abertos em planilhas 
 <img width="893" height="479" alt="image" src="https://github.com/user-attachments/assets/57347405-0272-4320-8867-f2a26bc22f70" />
+**https://github.com/Artur08gfndfghn/informatica/blob/main/Captura%20de%20tela%202026-03-13%20200533.png**
