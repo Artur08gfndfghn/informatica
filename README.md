@@ -7,3 +7,5 @@ https://www.canva.com/design/DAHBPnoKum4/7QdoF78-WPsnIqhQm9iO8Q/edit?utm_content
 aula dados abertos em planilhas 
 <img width="893" height="479" alt="image" src="https://github.com/user-attachments/assets/57347405-0272-4320-8867-f2a26bc22f70" />
 **https://github.com/Artur08gfndfghn/informatica/blob/main/Captura%20de%20tela%202026-03-13%20200533.png**
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/01d14d2e-427c-4086-91d8-34bd93ec8f58" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/052e2e71-d337-4c1c-b547-2a12837e2461" />
