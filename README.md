@@ -9,3 +9,4 @@ aula dados abertos em planilhas
 **https://github.com/Artur08gfndfghn/informatica/blob/main/Captura%20de%20tela%202026-03-13%20200533.png**
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/01d14d2e-427c-4086-91d8-34bd93ec8f58" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/052e2e71-d337-4c1c-b547-2a12837e2461" />
+<img width="419" height="535" alt="image" src="https://github.com/user-attachments/assets/3693469a-9615-46b9-9f1f-ad5a944e372c" />
