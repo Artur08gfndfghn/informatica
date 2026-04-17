@@ -10,3 +10,5 @@ aula dados abertos em planilhas
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/01d14d2e-427c-4086-91d8-34bd93ec8f58" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/052e2e71-d337-4c1c-b547-2a12837e2461" />
 <img width="419" height="535" alt="image" src="https://github.com/user-attachments/assets/3693469a-9615-46b9-9f1f-ad5a944e372c" />
+<img width="580" height="70" alt="image" src="https://github.com/user-attachments/assets/88ed39f7-aa92-4efe-8b04-aa9e73ba82b8" />
+<img width="527" height="546" alt="image" src="https://github.com/user-attachments/assets/3d3ad0cd-83e3-4129-a68c-f5a7ffaaadc6" />
